@@ -4,9 +4,9 @@
     require('angular');
 
     angular.module('myApp')
-        .controller('MyCtrl', MyCtrl);
+        .controller('myCtrl', myCtrl);
 
-    function MyCtrl() {
+    function myCtrl() {
         this.dontwork = 'works great!';
     }
 })();

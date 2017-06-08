@@ -1,7 +1,7 @@
 {
   "name": "anguwebpack",
   "version": "1.0.0",
-  "description": "мой тестовый angular проект с использованием webpack",
+  "description": "Mockup for creating the AngularJS application with using Webpack",
   "main": "./js/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
